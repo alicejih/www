@@ -3881,7 +3881,7 @@ body {
 .cid-ru0k9Ryjbn {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #ffffff;
+  background-color: #232323;
 }
 .cid-ru0k9Ryjbn h4 {
   font-weight: 500;
@@ -3897,6 +3897,9 @@ body {
 }
 .cid-ru0k9Ryjbn .card-wrapper {
   height: 100%;
+}
+.cid-ru0k9Ryjbn .card-title {
+  color: #ffffff;
 }
 .cid-ru0jZnGS1U {
   padding-top: 60px;
